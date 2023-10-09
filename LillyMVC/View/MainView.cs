@@ -31,6 +31,6 @@ namespace LillyMVC.View
                 int toyPrice = int.Parse( Console.ReadLine() );
             return new Money
         }
-        Age=age, WashingMachinePrice=washingmashineprice, ToyPrice=toyprice
+        Age = age, WashingMachinePrice = washingmashineprice, ToyPrice = toyprice
     }
 }
